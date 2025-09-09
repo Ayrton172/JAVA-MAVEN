@@ -14,6 +14,9 @@ public class main {
         Double myDouble = 3.14;
         System.out.println(myDouble);
 
+        Float myFloat = 3.14f;
+        System.out.println(myFloat);
+
         
 
     }
