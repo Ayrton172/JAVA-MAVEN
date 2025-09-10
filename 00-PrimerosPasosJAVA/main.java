@@ -1,8 +1,7 @@
-public class main {
+public class Main {
     public static void main(String[] args) {
         // Hola Mundo
         System.out.println("Hola Mundo");
-
         //Crear una variable
         int a = 10;
         a += 5;
